@@ -38,7 +38,7 @@ export default function SplashScreen({ navigation }) {
         style={[styles.logo, { transform: [{ scale: scaleAnim }] }]} 
         resizeMode="contain" 
       />
-      <Text style={styles.text}>Cargando...</Text>
+      <Text style={styles.text}>Ecuador - La Tri...</Text>
     </View>
   );
 }
